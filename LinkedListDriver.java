@@ -119,7 +119,7 @@ public class LinkedListDriver {
                     System.out.println("The list 1: " + sList);
                     System.out.println("The list 2: " + temp);
                     sList.mergeList(sList, temp);
-                    System.out.println("Merged List: " + temp);// check implementation
+                    System.out.println("Merged List: " + temp);
                     sList = alt;
                     break;
                 case "t":
